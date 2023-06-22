@@ -509,7 +509,7 @@ textArea.setEditable(false);
 // 输出结果为：类A初始化\n100\n
 
 2.编译时常量不会引起初始化，编译时不是常量会引起初始化（static块被执行）
-![Alt text](image-1.png)
+![]([image-1.png](https://github.com/flqmingo/images/blob/main/2023software_engineer_review/image-1.png)
 //输出结果为：3\nInitializing\n5n\10\n
 
 3.见下图
