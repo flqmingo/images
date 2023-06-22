@@ -505,7 +505,7 @@ textArea.setEditable(false);
 ## 九、类的初始化
 
 1.当访问⼀个Java类或接⼝的静态域时，只有真正声明这个域的类或接⼝才会被初始化
-![](https://github.com/flqmingo/images/blob/main/2023software_engineer_review/image.png)
+![png](https://github.com/flqmingo/images/blob/main/2023software_engineer_review/image.png)
 // 输出结果为：类A初始化\n100\n
 
 2.编译时常量不会引起初始化，编译时不是常量会引起初始化（static块被执行）
